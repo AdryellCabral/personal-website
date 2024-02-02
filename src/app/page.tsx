@@ -33,7 +33,6 @@ export default function Home() {
           <a href="https://github.com/AdryellCabral" target="_blank">
             Github
           </a>
-
         </div>
 
         <a
