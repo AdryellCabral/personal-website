@@ -10,6 +10,9 @@ const roboto = Roboto({
 export const metadata: Metadata = {
   title: "Adryell Cabral | Desenvolvedor Full-stack",
   description: "Belo horizonte",
+  icons: {
+    icon: "./icon.ico",
+  },
 };
 
 export default function RootLayout({
