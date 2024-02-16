@@ -48,7 +48,7 @@ export default function Home() {
         <h1>Adryell Cabral</h1>
 
         <div className="flex gap-3">
-          <h2>Desenvolvedor Full-Stack</h2>
+          <h2>Desenvolvedor Back-end</h2>
           <h2>Belo Horizonte</h2>
         </div>
       </div>
